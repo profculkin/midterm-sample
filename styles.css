@@ -1,0 +1,20 @@
+
+
+h1, h2, h3{
+	font-family: 'Alfa Slab One', cursive;
+	color:#F00;
+}
+body{
+	font-family:Roboto, sans-serif;
+}
+
+.bgimage{
+	background-image: url(images/maker-faire-workshop.jpg);
+	background-position: center center;
+	background-size: cover;
+	height:400px;
+
+}
+.jumbotron{
+	background-color: #e0f3f9;
+}
